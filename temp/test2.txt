@@ -4,3 +4,6 @@ This is test2 file
 new line
 
 third line
+
+
+This is new line after commit
